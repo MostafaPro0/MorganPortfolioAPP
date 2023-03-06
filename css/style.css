@@ -10,7 +10,7 @@ body{
   margin-left: auto;
 }
 .section1 {
-  background-image: url(../Images/intro-bg.jpg);
+  background-image: url(../images/intro-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
